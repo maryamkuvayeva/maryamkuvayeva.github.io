@@ -7,7 +7,6 @@ Disallow: */?s=
 Disallow: *sort=
 Disallow: *view=
 Disallow: *utm=
-Crawl-Delay: 5
 
 User-agent: GoogleBot
 Disallow: /admin/
@@ -38,10 +37,7 @@ Allow: /plugins/*.png
 Allow: /plugins/*.jpg
 Allow: /plugins/*.gif
 Clean-Param: utm_source&utm_medium&utm_campaign
-Crawl-Delay: 0.5
 
-Sitemap: https://rucopywriter.ru/sitemap.xml
-Host: https://rucopywriter.ruUser-agent: *
 Disallow: /admin/
 Disallow: /plugins/
 Disallow: /search/
@@ -50,7 +46,6 @@ Disallow: */?s=
 Disallow: *sort=
 Disallow: *view=
 Disallow: *utm=
-Crawl-Delay: 5
 
 User-agent: GoogleBot
 Disallow: /admin/
@@ -81,7 +76,7 @@ Allow: /plugins/*.png
 Allow: /plugins/*.jpg
 Allow: /plugins/*.gif
 Clean-Param: utm_source&utm_medium&utm_campaign
-Crawl-Delay: 0.5
+Crawl-Delay: 5
 
 Sitemap: https://rucopywriter.ru/sitemap.xml
 Host: https://rucopywriter.ru
