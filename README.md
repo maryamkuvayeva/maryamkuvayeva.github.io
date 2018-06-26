@@ -1,1 +1,0 @@
-# maryamkuvayeva.github.io
