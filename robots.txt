@@ -1,11 +1,4 @@
 User-agent: *
-Disallow: /admin/
+Disallow: 
 
-User-agent: GoogleBot
-Disallow: /admin/
-
-User-agent: Yandex
-Disallow: /admin/
-
-Sitemap: https://rucopywriter.ru/sitemap.xml
-Host: https://rucopywriter.ru
+Host: rucopywriter.ru
